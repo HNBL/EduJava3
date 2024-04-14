@@ -2,7 +2,7 @@ class Study {
 
     private String course;
 
-    //todo
+    
 
 
     public String printCourse() {
@@ -14,7 +14,7 @@ class Study {
 class JavaProgram {
     public static void main(String[] args) {
 
-        //todo
+
     }
 
 }
